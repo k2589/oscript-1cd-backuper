@@ -40,7 +40,8 @@
 * Messenger
 * FTP *(не ниже версии 1.0.3)*
 
-> FTP 1.0.3 пока не доступен в opm, необходимо скачать его [из репозитория](https://github.com/dmpas/oscript-ftp/releases/tag/v1.0.3-alpha1) и установить через команду `opm install -f /путьКФайлу/ftp-1.0.3.ospx`
+> FTP 1.0.3 пока не доступен в opm, необходимо скачать его [из репозитория](https://github.com/dmpas/oscript-ftp/releases/tag/v1.0.3-alpha1) и установить через команду  
+>`opm install -f /путьКФайлу/ftp-1.0.3.ospx`
 
 >Скрипт проверен на работоспособность с oscript версии 1.1.1.42.
 
